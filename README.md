@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyosuke Kita
-- 👀 I’m interested in bioinformatics, computational biology.
+- 👀 I’m interested in bioinformatics and computational biology.
 - 🌱 I’m currently learning machine learning.
 
 <!---
