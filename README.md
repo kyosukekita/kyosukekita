@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kyosuke Kita
 - 👀 I’m interested in bioinformatics and computational biology.
-- 🌱 I’m currently learning machine learning.
 
 <!---
 kyosukekita/kyosukekita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
